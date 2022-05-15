@@ -6,8 +6,12 @@ This is a small example of filtering an array in react
 
 First clone this repo, then move into the directory and install the dependencies
 
-```npm install```
+```bash
+npm install
+```
 
 Then start the dev server
 
-```npm run dev```
+```bash
+npm run dev
+```
